@@ -1,0 +1,12 @@
+@echo off
+md "1 PM"
+md "2 PM"
+md "3 PM"
+md "4 PM"
+md "5 PM"
+md "6 PM"
+md "7 PM"
+md "8 PM"
+md "9 PM"
+md "10 PM"
+md "11 PM"
